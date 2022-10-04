@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"data","c":"DiscreteAttribute","l":"DiscreteAttribute(String, int, Set<String>)","url":"%3Cinit%3E(java.lang.String,int,java.util.Set)"},{"p":"data","c":"DiscreteAttribute","l":"getNumberOfDistinctValues()"},{"p":"data","c":"DiscreteAttribute","l":"iterator()"},{"p":"data","c":"DiscreteAttribute","l":"toString()"}]

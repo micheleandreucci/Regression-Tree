@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//src/data/Data.java=UTF-8
+encoding//src/data/DiscreteAttribute.java=UTF-8
+encoding//src/database/Column.java=UTF-8
+encoding//src/database/TableData.java=UTF-8
+encoding//src/server/MultiServer.java=UTF-8
+encoding//src/server/ServerOneClient.java=UTF-8
+encoding//src/tree/ContinousNode.java=UTF-8
+encoding//src/tree/DiscreteNode.java=UTF-8
+encoding//src/tree/LeafNode.java=UTF-8
+encoding//src/tree/Node.java=UTF-8
+encoding//src/tree/RegressionTree.java=UTF-8
+encoding//src/tree/SplitNode.java=UTF-8
